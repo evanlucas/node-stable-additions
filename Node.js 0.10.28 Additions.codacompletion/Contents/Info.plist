@@ -9,7 +9,7 @@
 	<key>CodaIconMaskTintString</key>
 	<string>#0669ad</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.evanlucas.completions.node.js.0.10.28-additions</string>
+	<string>com.panic.coda.completions.node.js.0.10.28-additions</string>
 	<key>CFBundleName</key>
 	<string>Node.js v0.10.28 Additions</string>
 	<key>NSHumanReadableCopyright</key>
