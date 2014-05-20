@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Completions</key>
+  <array>
+    <dict>
+      <key>ID</key>
+      <string>rename</string>
+      <key>String></key>
+      <string>rename</string>
+      <key>SelectionRange</key>
+      <string>{7,0}</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>Parameters</key>
+      <array>
+        <string>oldPath</string>
+        <string>newPath</string>
+        <string>callback</string>
+      </array>
+    </dict>
+    <dict>
+      <key>ID</key>
+      <string>renameSync</string>
+      <key>String</key>
+      <string>renameSync</string>
+      <key>SelectionRange</key>
+      <string>{11,0}</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>Parameters</key>
+      <array>
+        <string>oldPath</string>
+        <string>newPath</string>
+      </array>
+    </dict>
+    <dict>
+      <key>ID</key>
+      <string>chmod</string>
+      <key>String</key>
+      <string>chmod</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>SelectionRange</key>
+      <string>{6, 0}</string>
+      <key>Parameters</key>
+      <array>
+        <string>path</string>
+        <string>mode</string>
+        <string>callback</string>
+      </array>
+    </dict>
+    <dict>
+      <key>ID</key>
+      <string>chmodSync</string>
+      <key>String</key>
+      <string>chmodSync</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>SelectionRange</key>
+      <string>{10, 0}</string>
+      <key>Parameters</key>
+      <array>
+        <string>path</string>
+        <string>mode</string>
+      </array>
+    </dict>
+    <dict>
+      <key>ID</key>
+      <string>chown</string>
+      <key>String</key>
+      <string>chown</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>SelectionRange</key>
+      <string>{6, 0}</string>
+      <key>Parameters</key>
+      <array>
+        <string>path</string>
+        <string>uid</string>
+        <string>gid</string>
+        <string>callback</string>
+      </array>
+    </dict>
+    <dict>
+      <key>ID</key>
+      <string>chownSync</string>
+      <key>String</key>
+      <string>chownSync</string>
+      <key>PostString</key>
+      <string>()</string>
+      <key>SelectionRange</key>
+      <string>{10, 0}</string>
+      <key>Parameters</key>
+      <array>
+        <string>path</string>
+        <string>uid</string>
+        <string>gid</string>
+      </array>
+    </dict>
+  </array>
+</dict>
+</plist>
